@@ -4,6 +4,6 @@
 - 🌱 I’m currently learning Tablue.
 - 👯 I’m looking to collaborate on YouTube.
 - 💬 Ask me about Python and Machine Learning
-- 📫 How to reach me: Instagram - chaitanyaapate26
+- 📫 How to reach me: Instagram - @chaitanyaapate26
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening songs everyday.
