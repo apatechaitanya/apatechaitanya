@@ -1,6 +1,6 @@
 ### Hola , I'm Chaitanya !😄👋
 
-- 🔭 I’m currently pursuing CDAC-Mumbai.
+- 🔭 I’m currently pursuing in CDAC-Mumbai.
 - 🌱 I’m currently learning React JS.
 - 👯 I’m looking to collaborate on YouTube.
 - 💬 Ask me about Java and Python.
