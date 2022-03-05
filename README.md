@@ -1,7 +1,7 @@
 ### Hola , I'm Chaitanya !😄👋
 
-- 🔭 I’m currently working on project of Diabetes Prediction
-- 🌱 I’m currently learning Tablue.
+- 🔭 I’m currently pursuing CDAC-Mumbai.
+- 🌱 I’m currently learning ReactJS.
 - 👯 I’m looking to collaborate on YouTube.
 - 💬 Ask me about Java and Python.
 - 📫 How to reach me: [Instagram - @i._am_chaitanya](https://www.instagram.com/i._am_chaitanya/)
